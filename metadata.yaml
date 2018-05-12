@@ -1,5 +1,8 @@
 _repo: Christmas-in-Legend-and-StoryA-Book-for-Boys-and-Girls_11014
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, Elva Sophronia
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3794
 description: Forty selections from the Bible and well-known authors reflect the religious
   and secular origins of Christmas and its customs.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11014#Christmas-in-Legend-and-StoryA-Book-for-Boys-and-Girls
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
